@@ -1,0 +1,1 @@
+# rahat-ai-crop-manager
